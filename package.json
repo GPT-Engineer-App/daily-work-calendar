@@ -57,6 +57,7 @@
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^0.9.1",
+    "webpack-cli": "^4.10.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {
