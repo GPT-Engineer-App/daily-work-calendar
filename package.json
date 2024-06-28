@@ -1,6 +1,6 @@
 {
   "name": "vue2-project-management",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A project management system with calendar and tasks using Vue 2",
   "main": "index.js",
   "scripts": {
